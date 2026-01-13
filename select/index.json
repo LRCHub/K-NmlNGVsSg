@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "金星 (Live At 渋谷公会堂 / 1990)",
+  "base_artist": "平沢 進",
+  "createdAt": "2026-01-13T15:21:23.509415Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "金星",
+      "artist": "平沢進",
+      "has_synced": true,
+      "path": "select/01_金星_平沢進.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "金星",
+      "artist": "ELLEGARDEN",
+      "has_synced": true,
+      "path": "select/02_金星_ELLEGARDEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "金星",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/03_金星_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "金星",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/04_金星_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "金星 - Live At 渋谷公会堂 / 1990",
+      "artist": "Susumu Hirasawa",
+      "has_synced": false,
+      "path": "select/05_金星_-_Live_At_渋谷公会堂___1990_Susumu_Hirasawa.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "金星",
+      "artist": "平沢進",
+      "has_synced": false,
+      "path": "select/06_金星_平沢進.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "金星",
+      "artist": "女王蜂",
+      "has_synced": true,
+      "path": "select/07_金星_女王蜂.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "金星",
+      "artist": "Susumu Hirasawa",
+      "has_synced": false,
+      "path": "select/08_金星_Susumu_Hirasawa.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "金星 Venus",
+      "artist": "The Low Mays",
+      "has_synced": false,
+      "path": "select/09_金星_Venus_The_Low_Mays.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "金星",
+      "artist": "平沢 進",
+      "has_synced": false,
+      "path": "select/pl_01_金星_平沢_進.txt"
+    }
+  ]
+}
